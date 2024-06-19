@@ -1,0 +1,3 @@
+和astro 脚本一样，唯一不一样就是issue之间的区分
+有sub config
+issue回填号码和题目, ISSUE之间美元符号区分
